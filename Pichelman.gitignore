@@ -13,6 +13,8 @@ local.properties
 .settings/
 .loadpath
 .externalToolBuilders/
+.project
+.classpath
 
 # OS X
 ######
